@@ -1,0 +1,89 @@
+
+@import url("bootstrap.css");
+
+@import url("normalize.css");
+@import url("960.css");
+
+@inport url("jquery/jquery.mobile.custom.structure.css");
+@inport url("jquery/jquery.mobile.custom.theme.css");
+
+@import url("timeline/timeline.css");
+@import url("../scss/timeline-changes.scss");
+
+body div.container {
+  width: auto;
+}
+
+.portfolio-timeline #timeline img {
+  border-radius: 50px;
+}
+.portfolio-timeline #timeline .navigation .toolbar {
+  background-color: #222222;
+}
+
+section.h-card {
+	width: 500px;
+	display: block;
+	background-color: #222222;
+	color: #FFF;
+	float: left;
+	border-radius: 10px;
+	padding: 20px; 
+}
+section.h-card h1 {
+	font-size: 16px;
+	color:#fff;
+	text-align: right;
+	margin: 0;
+	line-height: 26px;
+	padding-bottom: 5px;
+}
+section.h-card h1 a {
+	color: #fff;
+	font-size: 16px;
+}
+section.h-card aside {
+	width: 40%;
+	float: left;
+}
+section.h-card aside img {
+	border-radius: 0 10px 10px;
+	border:1px solid lightgrey;
+	padding: 5px;
+}
+section.h-card ul {
+	width:60%;
+	float: left;
+	margin:0;
+	padding:0;
+}
+section.h-card ul li:first-child {
+	border-top:1px solid #fff;
+}
+section.h-card ul li {
+	list-style-type: none;
+	padding: 0 0 0 5px;
+	font-size: 12px;
+	text-align: right;
+	border-bottom: 1px solid #fff;
+	border-top: 1px solid grey;
+	float: left;
+	display: block;
+	width: 100%;
+	margin: 0 0 0 9px;
+}
+section.h-card ul li strong {
+	float: right;
+}
+
+section.h-card ul li time,
+section.h-card ul li span {
+	text-align: left;
+	float: left;
+}
+section.h-card ul li:nth-child(odd)  {
+
+}
+section.h-card ul li:nth-child(even)  {
+
+}

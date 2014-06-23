@@ -1,0 +1,185 @@
+
+{
+    "timeline":
+    {
+        "headline":"Mika Petteri Korhonen",
+        "type":"default",
+		    "startDate":"2007,05",
+		    "text":"<i>Passionate <span class='c1'>Programmer</span> & <span class='c2'>UI Developer</span></i><br /> From Finland",
+		    "asset":
+        {
+            "media":"img/shots/profiilikuva.jpg",
+            "credit":"",
+            "caption":""
+        },
+        "date": [
+          {
+                "startDate":"2007,06",
+                "headline":"My student work for a car dealership company",
+                "text":"In this project I created a fully functional website that had basic car dealing features.",
+                "asset":
+                {
+                    "media":"/img/shots/noimg.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2007,11",
+                "headline":"My first commercial intranet template",
+                "text":"In this project I created a template for customer Microsoft Office Sharepoint server intranet.",
+                "asset":
+                {
+                    "media":"/img/shots/noimg.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2008,4",
+                "headline":"Raisio.com got recoded and redesigned.",
+                "text":"I would describe the website project challenging and a learning opportunity since I got a new CMS platform called N.A.S.",
+                "asset":
+                {
+                    "media":"img/shots/raisio-website.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2008,5",
+                "headline":"Keiju.fi got recoded and redisigned.",
+                "text":"Website got a new look and new code on the back and fron end.",
+                "asset":
+                {
+                    "media":"/img/shots/noimg.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,1",
+                "headline":"I coded the Ekologia.fi website for the Raisio corp.",
+                "text":"I would describe the website project as challenging since the timetable was tight since the product label was lounched just few days before the site lounch.",
+                "asset":
+                {
+                    "media":"/img/shots/noimg.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,3",
+                "headline":"Elovena.com got six new language sites for the productline.",
+                "text":"Elovena is the biggest snak brands in finland and has a long history.",
+                "asset":
+                {
+                    "media":"img/shots/elovena-website.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate": "2009,11",
+                "headline": "Did a facelift for the Leiras.fi website.",
+                "text":"The site was quite challenging and I got a new coding platform for the site.",
+                "asset":
+                {
+                    "media":"/img/shots/noimg.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate": "2010,1",
+                "headline": "Did a facelift for the Codesign.fi website.",
+                "text":"Building the website for the company that you work for has an interesting way of beeing very dynamic.",
+                "asset":
+                {
+                    "media":"img/shots/codesign-website.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,10",
+                "headline":"Coded the Alvesco azhma inhaler website.",
+                "text":"The website coding was a fast one with integrations to third party login systems.",
+                "asset":
+                {
+                    "media":"/img/shots/noimg.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,1",
+                "headline":"Coded &amp; redesigned the Machinery half way webstore.",
+                "text":"The Machinery.fi website got redesigne and a new home for their over 10k products spanning from a nut to a military hawk airplain.",
+                "asset":
+                {
+                    "media":"/img/shots/noimg.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,4",
+                "headline":"Coded and redesigned website for Nintendo.fi",
+                "text":"Created a new home for Nintendo products in Finland.",
+                "asset":
+                {
+                    "media":"img/shots/nintendo-website.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,5",
+                "headline":"Created the notorious Nintodo club.",
+                "text":"The challenge for this product was to code the website in one week.",
+                "asset":
+                {
+                    "media":"img/shots/nintendoclub-website.png",
+                    "credit":"<a href='http://dribbble.com/shots/228267-Swiss-newspaper-reader-app-for-iPad-UI-UX-iOS'>by Jonathan Moreira</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,9",
+                "enddate":"2016,6",
+                "headline":"Developed the electronic book selling platform for Elisa Corp",
+                "text":"The most interesting platform what I have had to develop with and the first fully featured webshop with payment routes to local banks.",
+                "asset":
+                {
+                    "media":"/img/shots/elisa-kirja-website.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,4",
+                "enddate":"2013,11",
+                "headline":"Developed html5 user interfaces for the Comptel Corporation.",
+                "text":"Developed the user interfaces for a data analysis and big data.",
+                "asset":
+                {
+                    "media":"/img/shots/noimg.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2014,7",
+                "headline":"Designed &amp; coded my interactive portfolio",
+                "text":"Created my own interactive portfolio to attract fans and possible clients.",
+                "asset":
+                {
+                    "media":"img/shots/portfolio.png",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
