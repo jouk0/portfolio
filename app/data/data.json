@@ -1,19 +1,18 @@
-
 {
     "timeline":
     {
         "headline":"Mika Petteri Korhonen",
         "type":"default",
-		    "startDate":"2007,05",
-		    "text":"<i>Passionate <span class='c1'>Programmer</span> & <span class='c2'>UI Developer</span></i><br /> From Finland",
-		    "asset":
+		"startDate":"2007,05",
+		"text":"<i>Passionate <span class='c1'>Programmer</span> & <span class='c2'>UI Developer</span></i><br /> From Finland",
+		"asset":
         {
             "media":"img/shots/profiilikuva.jpg",
             "credit":"",
             "caption":""
         },
         "date": [
-          {
+			{
                 "startDate":"2007,06",
                 "headline":"My student work for a car dealership company",
                 "text":"In this project I created a fully functional website that had basic car dealing features.",
@@ -147,7 +146,6 @@
             },
             {
                 "startDate":"2011,9",
-                "enddate":"2016,6",
                 "headline":"Developed the electronic book selling platform for Elisa Corp",
                 "text":"The most interesting platform what I have had to develop with and the first fully featured webshop with payment routes to local banks.",
                 "asset":
@@ -159,7 +157,6 @@
             },
             {
                 "startDate":"2013,4",
-                "enddate":"2013,11",
                 "headline":"Developed html5 user interfaces for the Comptel Corporation.",
                 "text":"Developed the user interfaces for a data analysis and big data.",
                 "asset":

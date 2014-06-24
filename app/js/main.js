@@ -8,7 +8,7 @@ require.config({
     lodash: '../libs/lodash/lodash', // alternative to underscore
     backbone: '../libs/backbone/backbone-min', // https://github.com/amdjs
     sinon: '../libs/sinon/sinon.js',
-    timeline: '../libs/timeline/timeline-min',
+    timeline: '../libs/timeline/timeline',
     firefly:  '../libs/firefly/jquery.firefly',
 
     // Require.js plugins

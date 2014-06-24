@@ -10,6 +10,26 @@
 @import url("timeline/timeline.css");
 @import url("../scss/timeline-changes.scss");
 
+body .main-menu-container .navbar-inverse .navbar-inner {
+	background:
+radial-gradient(black 15%, transparent 16%) 0 0,
+radial-gradient(black 15%, transparent 16%) 8px 8px,
+radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+background-color:#282828;
+background-size:16px 16px;
+opacity: 0.8;
+}
+body .main-menu-container .navbar-inverse .brand, .navbar-inverse .nav > li {
+	line-height: 25px;
+	outline: none;
+}
+body .main-menu-container .navbar-inverse .brand, .navbar-inverse .nav > li > a:focus {
+	background-color: #222222;
+}
+body .main-menu-container .navbar-inverse .brand, .navbar-inverse .nav > li > a.active {
+	background-color: #111111;
+}
 body div.container {
   width: auto;
 }
@@ -27,12 +47,17 @@ section.h-card {
 	color: #FFF;
 	float: left;
 	border-radius: 10px;
-	padding: 20px 40px; 
+	padding: 20px 40px 40px; 
 	margin: 10px;
-	background-color: hsl(2, 57%, 40%);
-background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),
-repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),
-repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2px, rgba(0,0,0,.2) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.2) 5px);
+	background-color:black;
+background-image:
+radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px; 
+background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 section.h-card h1 {
 	font-size: 16px;
@@ -53,7 +78,6 @@ section.h-card aside {
 section.h-card aside img {
 	border-radius: 0 10px 10px;
 	border:1px solid lightgrey;
-	padding: 5px; 
 	width: 92%;
 	box-shadow: 0 0 10px rgba(255,255,255,0.5);
 }

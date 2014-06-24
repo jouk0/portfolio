@@ -126,6 +126,8 @@
     "predef"        : [         // Extra globals.
         "require",
         "define",
-        "escape"
+        "escape",
+		"console",
+		"window"
     ]
 }

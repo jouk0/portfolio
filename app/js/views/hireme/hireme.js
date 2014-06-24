@@ -11,7 +11,6 @@ define([
       
     },
     render: function () {
-	console.log("jeps");
       this.$el.html(hiremePageTemplate);
     },
     events: {
